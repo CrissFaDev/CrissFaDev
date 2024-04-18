@@ -4,8 +4,8 @@
 
 ## Sobre mí
 - 👨‍💻 Ingeniero de software fullstack
-- 🎓 Graduado en Ingeniería Informática
-- 🌱 Actualmente estoy aprendiendo técnicas avanzadas de seguridad informática
+- 🎓 Graduado en Ingeniería de software
+- 🌱 Actualmente estoy aprendiendo nuevas tecnologias.
 - 🔭 Actualmente estoy trabajando en proyectos utilizando Spring Boot, HTML, CSS, JavaScript, Angular y TypeScript
 - 👯 Estoy buscando colaborar en proyectos de desarrollo web.
 - 💬 Pregúntame sobre desarrollo web Backend, Frontend.
