@@ -25,9 +25,6 @@
 - 🔗 [LinkedIn](https://web.facebook.com/profile.php?id=100005486839421)
 - 🔗 [Twitter](www.linkedin.com/in/cristian-fabian-rivera-lozano-a58426250)
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CrissFaDev&show_icons=true&theme=dark)
-
 ## Lenguajes más usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CrissFaDev&layout=compact&theme=dark)
 
