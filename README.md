@@ -22,8 +22,8 @@
 
 ## Contacto
 - 📫 Puedes contactarme a través de mi correo electrónico: cristian@example.com
-- 🔗 [LinkedIn](https://web.facebook.com/profile.php?id=100005486839421)
-- 🔗 [Twitter](www.linkedin.com/in/cristian-fabian-rivera-lozano-a58426250)
+- 🔗 [facebook](https://web.facebook.com/profile.php?id=100005486839421)
+- 🔗 [LinkedIn]([www.linkedin.com/in/cristian-fabian-rivera-lozano-a58426250](https://www.linkedin.com/in/cristian-fabian-rivera-lozano-a58426250/))
 
 ## Lenguajes más usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CrissFaDev&layout=compact&theme=dark)
