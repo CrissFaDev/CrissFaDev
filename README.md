@@ -10,6 +10,16 @@
 - 👯 Estoy buscando colaborar en proyectos de desarrollo web.
 - 💬 Pregúntame sobre desarrollo web Backend, Frontend.
 
+## Lenguajes y Tecnologías Utilizados
+  - ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular
+  - ![Express.js](https://img.icons8.com/color/48/000000/nodejs.png) Express.js
+  - ![Spring Boot](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Spring Boot
+  - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
+  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+  - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+  - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+
 ## Contacto
 - 📫 Puedes contactarme a través de mi correo electrónico: cristian@example.com
 - 🔗 [LinkedIn](https://web.facebook.com/profile.php?id=100005486839421)
