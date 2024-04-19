@@ -21,7 +21,7 @@
   - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
 ## Contacto
-- 📫 Puedes contactarme a través de mi correo electrónico: cristian@example.com
+- 📫 Puedes contactarme a través de mi correo electrónico: cr9211999@gmail.com
 - 🔗 [facebook](https://web.facebook.com/profile.php?id=100005486839421)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cristian-fabian-rivera-lozano-a58426250/)
 
