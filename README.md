@@ -3,10 +3,10 @@
 ¡Bienvenido a mi perfil de GitHub! Soy Cristiann F Rivera, un ingeniero de software fullstack de 24 años apasionado por el desarrollo web, la seguridad informática y la contribución a proyectos de código abierto.
 
 ## Sobre mí
-- 👨‍💻 Ingeniero de software fullstack
-- 🎓 Graduado en Ingeniería de software
+- 👨‍💻 Ingeniero de software fullstack.
+- 🎓 9 semestre Ingenieria de Software.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologias.
-- 🔭 Actualmente estoy trabajando en proyectos utilizando Spring Boot, HTML, CSS, JavaScript, Angular y TypeScript
+- 🔭 Actualmente estoy trabajando en proyectos utilizando Spring Boot, HTML, CSS, JavaScript, Angular y TypeScript.
 - 👯 Estoy buscando colaborar en proyectos de desarrollo web.
 - 💬 Pregúntame sobre desarrollo web Backend, Frontend.
 
