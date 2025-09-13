@@ -4,9 +4,10 @@
 
 ## Sobre mí
 - 👨‍💻 Ingeniero de software fullstack.
-- 🎓 9 semestre Ingeniería de Software.
+- 🎓 10 semestre Ingeniería de Software.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías.
-- 🔭 Actualmente estoy trabajando en proyectos utilizando Spring Boot, HTML, CSS, JavaScript, Angular y TypeScript.
+- 🔭 Actualmente estoy trabajando como Ingeniero de datos utilizando GAS, Notebook, API (Amazon, empresas de reparto).
+- 🔭 He trabajado con proyectos utilizando Spring Boot, Express, HTML, CSS, JavaScript, Angular y TypeScript.
 - 👯 Estoy buscando colaborar en proyectos de desarrollo web.
 - 💬 Pregúntame sobre desarrollo web Backend, Frontend.
 
